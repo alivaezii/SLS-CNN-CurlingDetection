@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "train": 43524,
+    "val": 31900,
+    "test": 772
+  },
+  "reports": {
+    "manifest_all": "G:\\procnn\\leakage_reports\\manifest.tsv",
+    "overlap_exact_sha256": "G:\\procnn\\leakage_reports\\overlap_exact_sha256.tsv",
+    "overlap_name_size": "G:\\procnn\\leakage_reports\\overlap_name_size.tsv",
+    "near_dupes_ahash": "G:\\procnn\\leakage_reports\\near_dupes_ahash_le_4.tsv"
+  },
+  "params": {
+    "ahash_size": 8,
+    "near_dupe_hamming_max": 4
+  }
+}

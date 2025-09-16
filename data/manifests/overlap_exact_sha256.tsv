@@ -1,0 +1,2 @@
+# Exact duplicates by SHA256 across splits
+split_a	label_a	relpath_a	size_a	sha256_a	ahash_a	split_b	label_b	relpath_b	size_b	sha256_b	ahash_b	extra
