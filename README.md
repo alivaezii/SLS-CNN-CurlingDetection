@@ -149,5 +149,5 @@ This repository is released under the MIT License. See [LICENSE](LICENSE) for de
 ## 👤 Author
 
 **Ali Vaezi**  
-PhD Candidate — FH Campus Wien  
-Email: *[your-email]*  
+Master Student — FH Campus Wien  
+Email: *[mohammadali.vaezi@stud.hcw.ac.at]*  
