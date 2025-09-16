@@ -1,0 +1,17 @@
+# Core scientific packages
+numpy>=1.24
+pillow>=10.0
+
+# Deep learning
+torch>=2.0
+torchvision>=0.15
+
+# Machine learning & metrics
+scikit-learn>=1.3
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.7
+
+# Utilities
+tqdm>=4.65
