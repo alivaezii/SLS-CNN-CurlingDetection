@@ -1,0 +1,53 @@
+{
+  "argmax": {
+    "acc": 1.0,
+    "precision": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "recall": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "f1": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "cm": [
+      [
+        715,
+        0
+      ],
+      [
+        0,
+        57
+      ]
+    ]
+  },
+  "thresholded": {
+    "threshold": 0.5133752822875977,
+    "acc": 1.0,
+    "precision": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "recall": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "f1": {
+      "ohne_curling": 1.0,
+      "curling": 1.0
+    },
+    "cm": [
+      [
+        715,
+        0
+      ],
+      [
+        0,
+        57
+      ]
+    ]
+  }
+}

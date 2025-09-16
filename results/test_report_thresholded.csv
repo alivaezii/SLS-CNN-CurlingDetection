@@ -1,0 +1,10 @@
+metric,ohne_curling,curling,macro
+precision,1.0,1.0,1.0
+recall,1.0,1.0,1.0
+f1,1.0,1.0,1.0
+
+accuracy,1.0,,
+
+confusion_matrix_format,"[[TN,FP],[FN,TP]]",,
+row1,715,0,
+row2,0,57,
